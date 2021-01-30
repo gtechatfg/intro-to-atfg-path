@@ -1,9 +1,1 @@
-This is the description we show on the course page [here](https://lab.github.com/gtechatfg/intro-to-atfg). This first paragraph will be featured at the top of the page so make it great.
-​
-
-​
-Be sure to tell the learner about the technology you are teaching, why they should learn it, how they can use it, and what you will teach them.
-​
-
-
-Include information on how they can reach you for questions about the content or course. 
+Our vision is to build a strong framework for developing Kerala's human resources, pre-skill them for Industry, and create the next generation of        startups. The foundation of any company are the people. So, our mission is to accelerate learning and discovering the potential of every Student         so that they become Industry Ready.
