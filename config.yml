@@ -4,7 +4,7 @@ steps:
   - link: 'https://atfg.gtechindia.org/program/'
     title: Introduction
     description: >-
-      On this page, we first explore the notion of "Industry Ready". Then, to the core elements of our system. Our current activities are listed.
+      On this page, we first explore the notion of "Industry Ready". Then, to the core elements of our system. Our <a href="https://atfg.gtechindia.org/program/#atfg-activities">current activities</a> are listed.
       
 
   - course: githubtraining/introduction-to-github
