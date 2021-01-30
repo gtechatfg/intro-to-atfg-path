@@ -4,8 +4,7 @@ steps:
   - link: 'https://atfg.gtechindia.org'
     title: Introduction
     description: >-
-      There are many more courses available on Learning Lab for you to check
-      out.
+      Our vision is to build a strong framework for developing Kerala's human resources, pre-skill them for Industry, and create the next generation of startups. The foundation of any company are the people. So, our mission is to accelerate learning and discovering the potential of every Student so that they become Industry Ready.
 
   - course: githubtraining/introduction-to-github
     description: The first step in your course
