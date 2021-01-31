@@ -1,19 +1,28 @@
 title: Intro to ATFG for Enablers
 description: Intro to ATFG for Enablers
 steps:
-  - link: 'https://atfg.gtechindia.org/program/#what-is-industry-ready'
-    title: What is Industry Ready?
-    description: >-
-      On this page, we first explore the notion of "Industry Ready".
-  - link: 'https://atfg.gtechindia.org/program/#atfg-elements'
-    title: Core Elements of the program
-    description: >-
-      In this section, we learn about the different elements of the program.
-  - link: 'https://atfg.gtechindia.org/program/#atfg-activities'
-    title: What are the activities for Students, Mentors and Enablers?
-    description: >-
-      ATFG has prepared a range of activities for Students, Mentors and Enablers.
-  - link: 'https://atfg.gtechindia.org/program/#atfg-benefits'
-    title: Why ATFG?
-    description: >-
-      Let's explore some of the benefits of ATFG for Students, and for Kerala.
+    -   link: 'https://atfg.gtechindia.org/program/#what-is-industry-ready'
+        title: What is Industry Ready?
+        description: >-
+            On this page, we first explore the notion of "Industry Ready".
+    -   link: 'https://atfg.gtechindia.org/program/#atfg-elements'
+        title: Core Elements of the program
+        description: >-
+            In this section, we learn about the different elements of the program.
+    -   link: 'https://atfg.gtechindia.org/program/#atfg-activities'
+        title: What are the activities for Students, Mentors and Enablers?
+        description: >-
+            ATFG has prepared a range of activities for Students, Mentors and Enablers.
+    -   link: 'https://atfg.gtechindia.org/program/#atfg-benefits'
+        title: Why ATFG?
+        description: >-
+            Let's explore some of the benefits of ATFG for Students, and for Kerala.
+    -   link: 'https://atfg.gtechindia.org/whoweare/'
+        title: How is ATFG organized?
+        description: >-
+            Learn about the different organizations and individuals who participate in ATFG. Meet our bot, Aaronchettan.
+    -   link: 'https://atfg.gtechindia.org/participate/'
+        title: How to start contributing?
+        description: >-
+            Teachers can particiapte as Enablers, as teachers on specific subjects, and working with open source. Learn more
+            about the possibilities and opportunities.
