@@ -28,8 +28,8 @@ steps:
         description: >-
             Teachers can particiapte as Enablers, as teachers on specific subjects, and working with open source. Learn more
             about the possibilities and opportunities.
-    -   link: https://www.youtube.com/watch?v=l5-qyetNL_M
-        video: https://www.youtube.com/watch?v=l5-qyetNL_M
+    -   video: 'https://www.youtube.com/watch?v=l5-qyetNL_M'
+        link: 'https://www.youtube.com/watch?v=l5-qyetNL_M'
         title: Video walkthrough on Discord
         description: >-
             This is a video walkthrough of the steps involved to signup and login to the ATFG Discord.
